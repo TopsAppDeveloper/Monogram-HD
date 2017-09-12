@@ -4,7 +4,7 @@ Monogram Maker App
 Privacy Policy for Qr scanner
 
 Camera (android.permission.CAMERA)
-Camera is needed for scanning QR code or Barcode.
+Camera is needed for take picture.
 
 Data Retention Policy, Managing Your Information
 We do not collect any data from any user.
